@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Dino-game",
+        "file": "games/Dino-game/dino.py",
+        "icon": "games/Dino-game/assets/Dino/DinoDead.png"
+    },
+    {
+        "name": "DOOM",
+        "file": "games/DOOM/main.py",
+        "icon": "games/DOOM/img/bg.jpg"
+    },
+    {
+        "name": "Tetris",
+        "file": "games/Tetris/tetris_lite.py",
+        "icon": "games/Tetris/tetris.jpg"
+    },
+    {
+        "name": "Saper",
+        "file": "games/Saper/Saper.py",
+        "icon": "games/Saper/Saper.png"
+    }
+
+]
